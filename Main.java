@@ -5,7 +5,7 @@ public class Main{
     }
 
     public static float area(float radius){
-        return 3.141f * radius * radius;
+        return 3.1415f * radius * radius;
     }
 }
 
